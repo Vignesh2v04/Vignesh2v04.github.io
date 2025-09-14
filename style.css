@@ -1,0 +1,213 @@
+/* --- Basic Setup & Variables --- */
+:root {
+    --primary-color: #00bcd4; /* A nice teal color */
+    --background-color: #1a1a1a;
+    --card-color: #2c2c2c;
+    --text-color: #e0e0e0;
+    --heading-color: #ffffff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+/* --- General Styling --- */
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+section {
+    padding: 3rem 0;
+    border-bottom: 1px solid #444;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: var(--heading-color);
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+/* --- Hero Section --- */
+#hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+    padding: 0 2rem;
+}
+
+.hero-content h1 {
+    font-size: 4rem;
+    color: var(--heading-color);
+    margin-bottom: 0.5rem;
+}
+
+.hero-content .subtitle {
+    font-size: 1.5rem;
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+}
+
+.hero-content .description {
+    font-size: 1.1rem;
+    max-width: 600px;
+    margin-bottom: 2rem;
+}
+
+.hero-links a {
+    display: inline-block;
+    background-color: var(--primary-color);
+    color: #111;
+    padding: 12px 24px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 0 10px;
+    transition: transform 0.3s ease;
+}
+
+.hero-links a:hover {
+    transform: translateY(-3px);
+}
+
+.hero-links a:last-child {
+    background-color: transparent;
+    color: var(--primary-color);
+    border: 2px solid var(--primary-color);
+}
+
+
+/* --- Skills Section --- */
+.skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.skill-card {
+    background-color: var(--card-color);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: 500;
+    transition: background-color 0.3s;
+}
+
+.skill-card:hover {
+    background-color: var(--primary-color);
+    color: #111;
+}
+
+/* --- Projects Section --- */
+.projects-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
+
+.project-card {
+    background-color: var(--card-color);
+    padding: 1.5rem;
+    border-radius: 8px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.project-card h3 {
+    font-size: 1.5rem;
+    color: var(--heading-color);
+    margin-bottom: 0.5rem;
+}
+
+.project-tags {
+    margin: 1rem 0;
+}
+
+.project-tags span {
+    display: inline-block;
+    background-color: #444;
+    color: var(--text-color);
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 0.8rem;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.project-links a {
+    display: inline-block;
+    background-color: var(--primary-color);
+    color: #111;
+    padding: 8px 16px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+
+/* --- Contact Section --- */
+#contact {
+    text-align: center;
+    border-bottom: none;
+}
+
+.contact-button {
+    display: inline-block;
+    background-color: var(--primary-color);
+    color: #111;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-top: 1rem;
+    transition: transform 0.3s;
+}
+
+.contact-button:hover {
+    transform: scale(1.05);
+}
+
+/* --- Footer --- */
+footer {
+    text-align: center;
+    padding: 2rem;
+    font-size: 0.9rem;
+    color: #888;
+}
+
+/* --- Responsive Design for Mobile --- */
+@media (max-width: 768px) {
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .hero-content h1 {
+        font-size: 3rem;
+    }
+}
