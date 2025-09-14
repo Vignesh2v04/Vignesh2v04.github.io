@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vignesh H.V | Developer Portfolio</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
     <nav>
@@ -14,6 +15,7 @@
                 <li><a href="#about">About</a></li>
                 <li><a href="#skills">Skills</a></li>
                 <li><a href="#projects">Projects</a></li>
+                <li><a href="#education">Certifications</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </div>
@@ -26,12 +28,13 @@
                 <h1>Vignesh H.V</h1>
                 <h2>And I'm a <span class="typed-text"></span></h2>
                 <div class="socials">
-                    <a href="https://github.com/Vignesh2v04" target="_blank">GitHub</a>
-                    <a href="https://linkedin.com/in/vignesh-h-v-283a472a4" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/Vignesh2v04" target="_blank" class="social-icon"><i class="fab fa-github"></i></a>
+                    <a href="https://linkedin.com/in/vignesh-h-v-283a472a4" target="_blank" class="social-icon"><i class="fab fa-linkedin"></i></a>
                 </div>
+                <a href="Vignesh_HV_Resume.pdf" class="btn" download>Download Resume</a>
             </div>
             <div class="home-img">
-                <img src="profile.jpg" alt="Vignesh H.V">
+                <img src="images/profile.jpg" alt="Vignesh H.V">
             </div>
         </div>
     </header>
@@ -39,15 +42,16 @@
     <main>
         <section id="about">
             <h2>About Me</h2>
-            <p>
+            <p class="section-subtitle">My Introduction</p>
+            <p class="about-text">
                 I am a results-oriented 3rd-year Computer Science student with a deep passion for full-stack development. I enjoy the challenge of building a complete application, from engineering robust backend logic with Python and Node.js to creating intuitive, responsive user interfaces with React. My goal is to build scalable, high-impact web applications and to continuously explore new technologies that push the boundaries of what's possible on the web.
             </p>
         </section>
 
         <section id="skills">
             <h2>My Skills</h2>
+            <p class="section-subtitle">My Technical Level</p>
             <div class="skills-grid">
-                <!-- IMPORTANT: Replace the src="" with real icon links from devicon.dev -->
                 <div class="skill-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"><span>Python</span></div>
                 <div class="skill-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"><span>Java</span></div>
                 <div class="skill-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"><span>JavaScript</span></div>
@@ -63,29 +67,53 @@
 
         <section id="projects">
             <h2>My Projects</h2>
+            <p class="section-subtitle">My Recent Work</p>
             <div class="projects-grid">
                  <div class="project-card">
+                    <img src="images/project1.png" alt="Disease Risk Predictor Project Screenshot">
                     <h3>Disease Risk Prediction Web App</h3>
-                    <p class="project-description">A full-stack web app I engineered and modernized to predict disease risk using Python and Flask. Features user authentication and real-time ML model predictions.</p>
-                    <div class="project-links">
-                        <a href="https://github.com/Vignesh2v04/disease_risk_pridictor" target="_blank">View on GitHub</a>
-                    </div>
+                    <p>A full-stack web app I engineered and modernized to predict disease risk using Python and Flask. Features user authentication and real-time ML model predictions.</p>
+                    <a href="https://github.com/Vignesh2v04/disease_risk_pridictor" target="_blank">View on GitHub <i class="fas fa-arrow-right"></i></a>
                 </div>
 
                 <div class="project-card">
+                    <img src="images/project2.png" alt="MediChain Project Screenshot">
                     <h3>MediChain-Innovate (Hackathon)</h3>
-                    <p class="project-description">A blockchain-based solution using the MERN stack to create a transparent and secure medical supply chain. Features a RESTful API and a React front-end.</p>
-                    <div class="project-links">
-                        <a href="https://github.com/Vignesh2v04/MediChain-Innovate" target="_blank">View on GitHub</a>
-                    </div>
+                    <p>A blockchain-based solution using the MERN stack to create a transparent and secure medical supply chain. Features a RESTful API and a React front-end.</p>
+                    <a href="https://github.com/Vignesh2v04/MediChain-Innovate" target="_blank">View on GitHub <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </section>
+
+        <section id="education">
+            <h2>Certifications & Achievements</h2>
+            <p class="section-subtitle">My Personal Journey</p>
+            <div class="education-grid">
+                <div class="education-card">
+                    <img src="images/cert-flutter.png" alt="Flutter Certificate">
+                    <h3>Mob-App Development using Flutter</h3>
+                    <p>A two-day, hands-on workshop covering app creation fundamentals and UI design principles at Canara Engineering College.</p>
+                </div>
+                <div class="education-card">
+                    <img src="images/cert-uipath.png" alt="UiPath Certificate">
+                    <h3>UiPath Automation Diplomas</h3>
+                    <p>Completed multiple diplomas including Introduction to AI, Excel, and UI Automation with Modern Design.</p>
+                </div>
+                <div class="education-card">
+                    <img src="images/cert-aakriti.png" alt="AAKRITI Certificate">
+                    <h3>AAKRITI 2025 National Fest</h3>
+                    <p>Actively participated in the Aetherion event at a National Level Techno-Cultural Fest, engaging in workshops and competitions.</p>
                 </div>
             </div>
         </section>
 
         <section id="contact">
             <h2>Contact Me</h2>
-            <p>I'm actively seeking internship opportunities. Let's connect!</p>
-            <a href="mailto:vignesh.h.v2004@gmail.com" class="contact-button">Email Me</a>
+            <p class="section-subtitle">Get in touch</p>
+            <div class="contact-container">
+                <p>I'm actively seeking internship opportunities. Let's connect and build something amazing together!</p>
+                <a href="mailto:vignesh.h.v2004@gmail.com" class="btn">Email Me <i class="fas fa-paper-plane"></i></a>
+            </div>
         </section>
     </main>
 
@@ -93,7 +121,6 @@
         <p>&copy; 2025 Vignesh H.V. All rights reserved.</p>
     </footer>
 
-    <!-- JavaScript Libraries -->
     <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
     <script src="script.js"></script>
 </body>
