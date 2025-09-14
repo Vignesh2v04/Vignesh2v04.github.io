@@ -1,0 +1,226 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 7 0 R /F4 10 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:vignesh.h.v2004@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 150.3028 742.0598 278.8328 756.0598 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://linkedin.com/in/vignesh-h-v-283a472a4)
+>> /Border [ 0 0 0 ] /Rect [ 151.8278 728.0598 325.7878 742.0598 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Vignesh2v04)
+>> /Border [ 0 0 0 ] /Rect [ 333.9478 728.0598 443.4478 742.0598 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R ] /Contents 29 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 28 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Vignesh2v04/disease_risk_pridictor)
+>> /Border [ 0 0 0 ] /Rect [ 302.032 773.1738 408.04 789.9738 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Vignesh2v04/MediChain-Innovate)
+>> /Border [ 0 0 0 ] /Rect [ 299.332 603.7238 405.34 620.5238 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Annots [ 9 0 R 11 0 R ] /Contents 30 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 28 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+13 0 obj
+<<
+/Outlines 15 0 R /PageMode /UseNone /Pages 28 0 R /Type /Catalog
+>>
+endobj
+14 0 obj
+<<
+/Author () /CreationDate (D:20250913234100+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250913234100+05'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title () /Trapped /False
+>>
+endobj
+15 0 obj
+<<
+/Count 5 /First 16 0 R /Last 16 0 R /Type /Outlines
+>>
+endobj
+16 0 obj
+<<
+/Count -5 /Dest [ 8 0 R /Fit ] /First 17 0 R /Last 25 0 R /Parent 15 0 R /Title (VIGNESH H.V)
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 8 0 R /Fit ] /Next 18 0 R /Parent 16 0 R /Title (PROFESSIONAL SUMMARY)
+>>
+endobj
+18 0 obj
+<<
+/Count -1 /Dest [ 8 0 R /Fit ] /First 19 0 R /Last 19 0 R /Next 20 0 R /Parent 16 0 R 
+  /Prev 17 0 R /Title (EDUCATION)
+>>
+endobj
+19 0 obj
+<<
+/Dest [ 8 0 R /Fit ] /Parent 18 0 R /Title (Bachelor of Engineering \(B.E\), Computer Science)
+>>
+endobj
+20 0 obj
+<<
+/Dest [ 8 0 R /Fit ] /Next 21 0 R /Parent 16 0 R /Prev 18 0 R /Title (TECHNICAL SKILLS)
+>>
+endobj
+21 0 obj
+<<
+/Count -3 /Dest [ 8 0 R /Fit ] /First 22 0 R /Last 24 0 R /Next 25 0 R /Parent 16 0 R 
+  /Prev 20 0 R /Title (PROJECTS)
+>>
+endobj
+22 0 obj
+<<
+/Dest [ 12 0 R /Fit ] /Next 23 0 R /Parent 21 0 R /Title (Disease Risk Prediction Web Application | GitHub Repository)
+>>
+endobj
+23 0 obj
+<<
+/Dest [ 12 0 R /Fit ] /Next 24 0 R /Parent 21 0 R /Prev 22 0 R /Title (MediChain-Innovate \(Hackathon Project\) | GitHub Repository)
+>>
+endobj
+24 0 obj
+<<
+/Dest [ 12 0 R /Fit ] /Parent 21 0 R /Prev 23 0 R /Title (Green Campus Management | GitHub Repository)
+>>
+endobj
+25 0 obj
+<<
+/Count -2 /Dest [ 12 0 R /Fit ] /First 26 0 R /Last 27 0 R /Parent 16 0 R /Prev 21 0 R 
+  /Title (TRAININGS & CERTIFICATIONS)
+>>
+endobj
+26 0 obj
+<<
+/Dest [ 12 0 R /Fit ] /Next 27 0 R /Parent 25 0 R /Title (Mob-App Development using Flutter Workshop)
+>>
+endobj
+27 0 obj
+<<
+/Dest [ 12 0 R /Fit ] /Parent 25 0 R /Prev 26 0 R /Title (UiPath Diplomas of Completion)
+>>
+endobj
+28 0 obj
+<<
+/Count 2 /Kids [ 8 0 R 12 0 R ] /Type /Pages
+>>
+endobj
+29 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1581
+>>
+stream
+Gau`SgN)%,&:O:Slr,9G,a\R'Oj$a87D;cFCeO<*1O4O>=@*Dt.S.^%V]Xe"FgE:2VOb5^/WmtgcgICD!@`9g8#tNE#&l8HrBgpV_;GN25QVepTKCg'C[VnNF>5h88.2/ROs!M/SG/\76Bf]!)"Cc\KY'BPPHN-VLj0uDRK79EK_dOF`^'sG7q-+Hs,[8^X:r&;[psZ(I<'Gdm2s5#\UFp=0/3/9m;+>(+>57,QTLkGa.\[7NuZU0FTX@.,\@O*6:p7CKfL'qdGcpQ6gFcm$=.UYB6((B4s:RpA*E8tj,?W"7OG1/DtjM9^q57dbAYdYYpf7LiJd(W=2p+%SENrCC6nIYP)oi='$_(O[&Be7'rf^.aM-1$$O"^GF4Om,c\%&D@&N[tn_mAU=\QtH[F"So'fPZlk>iHkI"J#,,bPnL,kSjD!(n)f[mNr>d\<k$/2<T!d"D1!oXMF-GhDEX:HkAZHdMe7G1OD(F30U\Y18K3,;eVCl,lm.60o1:$=!:uTYJ[$0QLEFbQ6%f(#,@1\)DA_,,&)cNJ:ug0tQIe)_t@5))"Ab>c1su?E,2f)CpMbNP8,VpOZW5Qu#qA_Era*>pBAq;5Q;WmP*0F_9"Z0KD7JBG!81VAanR3PY*h)Jrag.:(/9\1SN#LF48<;l7lQ!(DEP_E2\#1gSgcM#sKgE>jskB7O(7X6W4b^)`;\8OBYX0^929GXViUNjjiF#.95Y&9eELl7pH(e:)2V"\6)M!bK&g>@B/I:i,E0uSQ<E`(2nmq]Xh:agoQHFAgiqsE8\a)%-J_4Z>ed51\N`!R&O;:A9;8A&AqOOdMNU60\CE#%>&6VSM`3sd5.b4EK?kqQ7SZN'TjgQ4pE>K_f@jM9P+j+Q@Fg(#k3`-4;U!faDkmJ/f(lfC,)uj*)A7AL!Vgu?H:7Ail3B\0Lk2_(_md-Z:4Oo4:XJ?+5$sMZk0hk5'>Q]XM^Z7IFNV<qK>i$RhIH>B!!Y,>?_U4BS)bYa;4")Z.&j@!6Oj.blR'XIbWL)TK7W6&s)fF,\OIY(J;"J(OmS\`32@/=,4N-27Ir8GfM3Y`[DoZ-)lS8jn(c'gr57bj;<>VH!47&q];-F,*\itBrro1cI#)X4g#jC^.Y8'b5j^m"Ks4/K5TlIr1r?ek4b'GYQ%NM:6D>fL%MAt45O25a/Ye1[Q9C"kPDtJ!?2OGd.G'fV/IC2Or1W#@X:S;&pN+.M<H;nnRtJL_$r3i1n#3e@h]PZ$h[DZ:AKi-<dU]jlAr$:(@/ES]6@B4lf[<E=`;((n#osl\BCbZ]g!)/A:<IP<Yc/sC6?kWh'BWWPe"#JH&<+LN`Lt+IO,]<?f+$p*hc)=PfS&FZ'Zg0dPO2gS>2`eK[pjSh%#KXH*+#jdIYNDAOt-DmnbN8#^c!0K"=f<TM_abDP'e[@H(UpC*6%F]p2$-I^!#7^VHTZIh;-7NXh#i+4U*8*\ZXEam]O,*M0p&ZNF]:%_og$LMm(HPU+fBs,$E2//j%'a5sN+fDYB>M$.`^>Gp&nFM1Q2.tohJKs_IaajX5p3o'^p_j<GlePYqu,`5pu:%>UF)>p.P_qr/Z!taf~>endstream
+endobj
+30 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1899
+>>
+stream
+Gb!SlgN)%,&:O:Slr34l,[."B>MgFr'$](3/LaD,RQ`t^,U"?4'`d?oPE5/5.*6MkGh=:j:@+GYJcp8Cm[cRL8.Bs%rbmr5]cPYE77^iTj!f\%&C^E3cGrG)*o5d6gt^`N"E!G2>=%'3Fn+8D<(Q\$F!V*e(>U'tf8#\_P+oH(`6F*!6*D/):<g9b`:7H,dHCkjLHCF27M'`O5Yb`LkW2(+/u">>6+$I81HI]5L,6_].*R9\2,?YMKp)(g:Zuo2bXB>Gp_1?8nV>Bcm_MP)h\6_Bnte+Y._YQIj.Dj^GM_Al-iB"9YkPs%p<N1u:.0*KCIHGSO)*s!D8L8%ZgYj(ZcDOP:<+:YbJKq"/>7LeDf8F%e_8b9Cm@;6f\k/okAhmpk5^JY9oCR')p=BJh#faILL">ASC-`Xc7r]^V2L95D6%?LeOlX-1hTtIMO[UK`a]D=Z$(+imc%\hK%ZCdWa+/0>SboM_Ak)Y3Mjs*TLpK`]dRP8B&IkOM6Tqd;YQ>i1D`\^;mLK4d/C`nqkKiiV-H[`<uI(@RSl<uAht5=Q=Zj"l+uOd.rB#,a.s8LMWnCdgj1KED8A!e')sDKF(oDRSsgU`Xo)pspd`N(&M$VE0\4p?$fa#cj\%4)/ec&q[32k\62/?_b8E6J-=*kV1'b&V;+ag%bdcd,Apf"q;ZLV!J>l")-<];Z5aLFGB"=V7dQ[2FEFB%%5kN2s6T?L1:a8R]1\6H43\=k&.YCDLn\II'@&:MN'V_8*.@%fmW4e[JMTJ/.SU[<`TPi+.!SbC)K<IqXgA'qQI/4Q?adbh\?[h]<T3O33:E=APV,m.ZNCJb,#[>V7e$sW1mhq;b\'*Aq).]hdq4p4niPrJ[@<iRr>!9B@R#0-JX@CQ^e?IXmkNa)<25m`DB0t/S;Q:J;K&.Ta!A)IDlYTermpCL<Nn%n;T'Fh_D$d@iVO"r)9eqtb&s$SV;nuh\?GCNgH$qlhTsCYk>:!r]J=@/99:@0UW&.R[]4*TZ.5[sXFXpFa.F84LjS,U(rGqN`4DN^;ROn]#ZF%Y,.@Gn2Z>(--MP?Fe,DPBV0r+rCh@AaUTVLD;FTikGkHOQ=:]eYH+i9?ta^uML\H7.LB7C<Y9bn6?E=kIF60eUJj\/n*XeWqT<^]"8Te8RII;uI$S,D0RDoglG&?0N/WpRW%UMD/glKgC<:1YUa[SkMnD)h7XfIlN`8[Q)k[Ym3&T[@J'2;MPQc6`-d^+9[uqhY,aq)7RTUO0CT&A)c_#+;lMBQ-t7MOC[[H0]=\,UJbF-VC<!Oj!gVFU/H@)+mG."itGtc%F_8KoO*]=@u,_4=1_:-COJ4aLJEFOZQ,FN_FLV?a:],Ho`!=I54r,Wk'&F[afd2P>/FD-UcpC>BR\f3GlB/Kn_S)D0+'*NHd,bC-+:.?9"&=<bD8,`Ud[LQ9KXLNl(4XHcWNOZIV%g/Mk\=;tKLO0K^B2$uR[foE4d4LZ?4iTRT!Dr,OSSY\s1Tl8oF0QI>5g;qu5_[TdSW>[]kY#0sd*`Fqme?RUKTUlMcASaCRGZ=dNTmPLm,S^Im%=3F3t2gSi7@(2O92#Z%BV_brGqU:D3mEXD>='<O?PFk*WR\E:$Wa]ttB`uhA@BE1A#rl_#$KuT0^RT?8=pPgqPNtVIgq?I-,aQlqis.#VYNdQ@f4YY313Fme>]mg'JJq_kWeB-/i^KA%!4i'`@Os%[`S1F%E"%VV1ItC$<)u^=J2;f.kNFC1[O]&VqQa"D.rM'XkmYS3S/HP)m[**.nGpP7[UXs8f<T+Um,(qAlfK5)-WG$D1-VjM-$&GX$/SC0OS!g\=dNdbd[L5#FQ3CDW_/3?FX1/Vl$uM:MjqkArqXTfBDYaO2<hUI2jZl-g:m`a;C#5al`_&kM-i=?)_B$XNr~>endstream
+endobj
+xref
+0 31
+0000000000 65535 f 
+0000000073 00000 n 
+0000000135 00000 n 
+0000000242 00000 n 
+0000000354 00000 n 
+0000000538 00000 n 
+0000000735 00000 n 
+0000000917 00000 n 
+0000001032 00000 n 
+0000001267 00000 n 
+0000001469 00000 n 
+0000001589 00000 n 
+0000001788 00000 n 
+0000002019 00000 n 
+0000002106 00000 n 
+0000002359 00000 n 
+0000002433 00000 n 
+0000002549 00000 n 
+0000002650 00000 n 
+0000002793 00000 n 
+0000002910 00000 n 
+0000003020 00000 n 
+0000003162 00000 n 
+0000003303 00000 n 
+0000003458 00000 n 
+0000003583 00000 n 
+0000003731 00000 n 
+0000003855 00000 n 
+0000003966 00000 n 
+0000004033 00000 n 
+0000005706 00000 n 
+trailer
+<<
+/ID 
+[<1587535665b32fcd330cae098a7254af><1587535665b32fcd330cae098a7254af>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 14 0 R
+/Root 13 0 R
+/Size 31
+>>
+startxref
+7697
+%%EOF
