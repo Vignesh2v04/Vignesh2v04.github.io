@@ -7,17 +7,31 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <nav>
+        <div class="nav-container">
+            <a href="#home" class="nav-logo">Vignesh H.V</a>
+            <ul class="nav-menu">
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
 
-    <header id="hero">
-        <div class="hero-content">
-            <h1>Vignesh H.V</h1>
-            <p class="subtitle">Aspiring Full Stack & Mobile Developer</p>
-            <p class="description">
-                A passionate Computer Science student building practical solutions for complex problems.
-            </p>
-            <div class="hero-links">
-                <a href="#projects">View My Work</a>
-                <a href="https://github.com/Vignesh2v04" target="_blank">GitHub Profile</a>
+    <header id="home">
+        <div class="home-container">
+            <div class="home-text">
+                <p>Hello, I'm</p>
+                <h1>Vignesh H.V</h1>
+                <h2>And I'm a <span class="typed-text"></span></h2>
+                <div class="socials">
+                    <a href="https://github.com/Vignesh2v04" target="_blank">GitHub</a>
+                    <a href="https://linkedin.com/in/vignesh-h-v-283a472a4" target="_blank">LinkedIn</a>
+                </div>
+            </div>
+            <div class="home-img">
+                <img src="profile.jpg" alt="Vignesh H.V">
             </div>
         </div>
     </header>
@@ -26,41 +40,33 @@
         <section id="about">
             <h2>About Me</h2>
             <p>
-            I am a results-oriented 3rd-year Computer Science student with a deep passion for full-stack development. I enjoy the challenge of building a complete application, from engineering robust backend logic with Python and Node.js to creating intuitive, responsive user interfaces with React. My goal is to build scalable, high-impact web applications and to continuously explore new technologies that push the boundaries of what's possible on the web.
+                I am a results-oriented 3rd-year Computer Science student with a deep passion for full-stack development. I enjoy the challenge of building a complete application, from engineering robust backend logic with Python and Node.js to creating intuitive, responsive user interfaces with React. My goal is to build scalable, high-impact web applications and to continuously explore new technologies that push the boundaries of what's possible on the web.
             </p>
         </section>
 
         <section id="skills">
-            <h2>Technical Skills</h2>
+            <h2>My Skills</h2>
             <div class="skills-grid">
-                <div class="skill-card">Python</div>
-                <div class="skill-card">Java</div>
-                <div class="skill-card">JavaScript</div>
-                <div class="skill-card">React.js</div>
-                <div class="skill-card">Flask</div>
-                <div class="skill-card">Node.js</div>
-                <div class="skill-card">HTML/CSS</div>
-                <div class="skill-card">Scikit-learn</div>
-                <div class="skill-card">Pandas</div>
-                <div class="skill-card">XGBoost</div>
-                <div class="skill-card">Git & GitHub</div>
-                <div class="skill-card">Solidity</div>
+                <!-- IMPORTANT: Replace the src="" with real icon links from devicon.dev -->
+                <div class="skill-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"><span>Python</span></div>
+                <div class="skill-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"><span>Java</span></div>
+                <div class="skill-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"><span>JavaScript</span></div>
+                <div class="skill-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"><span>React.js</span></div>
+                <div class="skill-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask"><span>Flask</span></div>
+                <div class="skill-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"><span>Node.js</span></div>
+                <div class="skill-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"><span>HTML5</span></div>
+                <div class="skill-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"><span>CSS3</span></div>
+                <div class="skill-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"><span>Git</span></div>
+                <div class="skill-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity"><span>Solidity</span></div>
             </div>
         </section>
 
         <section id="projects">
             <h2>My Projects</h2>
             <div class="projects-grid">
-
-                <div class="project-card">
+                 <div class="project-card">
                     <h3>Disease Risk Prediction Web App</h3>
                     <p class="project-description">A full-stack web app I engineered and modernized to predict disease risk using Python and Flask. Features user authentication and real-time ML model predictions.</p>
-                    <div class="project-tags">
-                        <span>Python</span>
-                        <span>Flask</span>
-                        <span>Scikit-learn</span>
-                        <span>HTML/CSS</span>
-                    </div>
                     <div class="project-links">
                         <a href="https://github.com/Vignesh2v04/disease_risk_pridictor" target="_blank">View on GitHub</a>
                     </div>
@@ -69,32 +75,26 @@
                 <div class="project-card">
                     <h3>MediChain-Innovate (Hackathon)</h3>
                     <p class="project-description">A blockchain-based solution using the MERN stack to create a transparent and secure medical supply chain. Features a RESTful API and a React front-end.</p>
-                    <div class="project-tags">
-                        <span>React.js</span>
-                        <span>Node.js</span>
-                        <span>MongoDB</span>
-                        <span>Solidity</span>
-                    </div>
                     <div class="project-links">
                         <a href="https://github.com/Vignesh2v04/MediChain-Innovate" target="_blank">View on GitHub</a>
                     </div>
                 </div>
-                
-                <!-- Add another project card here when Green Campus is ready! -->
-
             </div>
         </section>
 
         <section id="contact">
-            <h2>Get In Touch</h2>
-            <p>I'm currently seeking internship opportunities. Please feel free to reach out!</p>
+            <h2>Contact Me</h2>
+            <p>I'm actively seeking internship opportunities. Let's connect!</p>
             <a href="mailto:vignesh.h.v2004@gmail.com" class="contact-button">Email Me</a>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2025 Vignesh H.V | Built with HTML & CSS</p>
+        <p>&copy; 2025 Vignesh H.V. All rights reserved.</p>
     </footer>
 
+    <!-- JavaScript Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    <script src="script.js"></script>
 </body>
 </html>
