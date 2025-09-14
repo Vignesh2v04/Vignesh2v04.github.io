@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
 :root {
-    --primary-color: #8E5839; /* The brown accent from the example */
-    --background-color: #fdfdfd; /* The clean off-white background */
+    --primary-color: #8E5839; 
+    --background-color: #f4efe7; /* YOUR NEW BACKGROUND COLOR */
     --text-color: #666;
     --heading-color: #333;
     --card-bg: #ffffff;
-    --shadow: 0 4px 15px rgba(0,0,0,0.08);
+    --shadow: 0 4px 15px rgba(0,0,0,0.07);
     --border-radius: 12px;
     --border-color: #eee;
 }
@@ -26,7 +26,7 @@ h2 { font-size: 2.5rem; color: var(--heading-color); text-align: center; margin-
 .btn:hover { transform: translateY(-3px); box-shadow: 0 4px 10px rgba(142,88,57,0.4); }
 
 /* Navigation Bar */
-nav { position: sticky; top: 0; left: 0; width: 100%; background-color: rgba(255,255,255,0.85); backdrop-filter: blur(10px); border-bottom: 1px solid var(--border-color); z-index: 100; }
+nav { position: sticky; top: 0; left: 0; width: 100%; background-color: rgba(244, 239, 231, 0.85); /* Adjusted for new background */ backdrop-filter: blur(10px); border-bottom: 1px solid var(--border-color); z-index: 100; }
 .nav-container { display: flex; justify-content: space-between; align-items: center; max-width: 1100px; margin: 0 auto; padding: 1.2rem 2rem; }
 .nav-logo { font-size: 1.5rem; font-weight: 700; color: var(--heading-color); text-decoration: none; }
 .nav-menu { list-style: none; display: flex; gap: 2.5rem; }
@@ -81,13 +81,12 @@ nav { position: sticky; top: 0; left: 0; width: 100%; background-color: rgba(255
 .contact-card p { margin-bottom: 2rem; font-size: 1.1rem; }
 
 /* Footer */
-footer { text-align: center; padding: 2.5rem; background-color: #333; color: #ddd; }
+footer { text-align: center; padding: 2.5rem; background-color: #e9e4dd; /* Complementary footer color */ color: #555;}
 
 /* Responsive Design */
 @media (max-width: 992px) {
     .home-container { flex-direction: column; text-align: center; }
-    .home-img { margin-bottom: 2rem; }
-    .socials { text-align: center; }
+    .home-img { order: -1; margin-bottom: 2rem; } /* Image on top on mobile */
 }
 @media (max-width: 768px) {
     .nav-menu { display: none; }
